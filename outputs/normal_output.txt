@@ -1,0 +1,45 @@
+----------NORMAL-ALERT-OUTPUT-----------
+
+======================================
+ HEARTBEAT MONITOR WITH ALERT SYSTEM
+======================================
+Platform: Arduino UNO
+Simulation: Wokwi
+Mode: Software Heartbeat Simulation
+Simulated BPM: 75
+Beat Interval: 800 ms
+
+Educational Thresholds:
+LOW: < 60.00
+NORMAL: 60.00 - 100.00
+HIGH: > 100.00
+
+WARNING:
+Educational prototype only.
+Not a medical diagnostic device.
+======================================
+
+
+------------------------------
+Heartbeat Count: 2
+Instant BPM: 74.9
+Average BPM: 74.9
+Status: NORMAL
+Alert: OFF
+------------------------------
+
+------------------------------
+Heartbeat Count: 3
+Instant BPM: 74.7
+Average BPM: 74.8
+Status: NORMAL
+Alert: OFF
+------------------------------
+
+------------------------------
+Heartbeat Count: 4
+Instant BPM: 74.7
+Average BPM: 74.8
+Status: NORMAL
+Alert: OFF
+------------------------------

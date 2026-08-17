@@ -1,0 +1,4 @@
+Test_ID,Simulated_BPM,Expected_Status,Expected_LED,Expected_Buzzer
+TC02,75,NORMAL,GREEN,OFF
+TC03,45,LOW,RED,ON
+TC04,120,HIGH,RED,ON

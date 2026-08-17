@@ -1,0 +1,6 @@
+# Wokwi Library List
+# See https://docs.wokwi.com/guides/libraries
+
+16x2 LCD Library
+Adafruit LiquidCrystal
+LiquidCrystal

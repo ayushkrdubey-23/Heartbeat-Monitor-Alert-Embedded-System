@@ -1,0 +1,26 @@
+# Arduino / IDE
+*.tmp
+*.bak
+*.swp
+
+# VS Code
+.vscode/
+
+# PlatformIO
+.pio/
+.platformio/
+
+# Build files
+build/
+dist/
+
+# Operating system
+.DS_Store
+Thumbs.db
+
+# Python cache if future analysis tools are added
+__pycache__/
+*.pyc
+
+# Temporary files
+*.log

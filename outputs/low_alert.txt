@@ -1,0 +1,92 @@
+----------LOW-ALERT-OUTPUT-----------
+======================================
+ HEARTBEAT MONITOR WITH ALERT SYSTEM
+======================================
+Platform: Arduino UNO
+Simulation: Wokwi
+Mode: Software Heartbeat Simulation
+Simulated BPM: 45
+Beat Interval: 1333 ms
+
+Educational Thresholds:
+LOW: < 60.00
+NORMAL: 60.00 - 100.00
+HIGH: > 100.00
+
+WARNING:
+Educational prototype only.
+Not a medical diagnostic device.
+======================================
+
+
+------------------------------
+Heartbeat Count: 2
+Instant BPM: 44.8
+Average BPM: 44.8
+Status: LOW
+Alert: ACTIVE
+------------------------------
+
+------------------------------
+Heartbeat Count: 3
+Instant BPM: 45.5
+Average BPM: 45.1
+Status: LOW
+Alert: ACTIVE
+------------------------------
+
+------------------------------
+Heartbeat Count: 4
+Instant BPM: 44.8
+Average BPM: 45.0
+Status: LOW
+Alert: ACTIVE
+------------------------------
+
+------------------------------
+Heartbeat Count: 5
+Instant BPM: 45.3
+Average BPM: 45.1
+Status: LOW
+Alert: ACTIVE
+------------------------------
+
+------------------------------
+Heartbeat Count: 6
+Instant BPM: 44.6
+Average BPM: 45.0
+Status: LOW
+Alert: ACTIVE
+------------------------------
+
+------------------------------
+Heartbeat Count: 7
+Instant BPM: 44.8
+Average BPM: 45.0
+Status: LOW
+Alert: ACTIVE
+------------------------------
+
+------------------------------
+Heartbeat Count: 8
+Instant BPM: 45.5
+Average BPM: 45.0
+Status: LOW
+Alert: ACTIVE
+------------------------------
+
+------------------------------
+Heartbeat Count: 9
+Instant BPM: 44.8
+Average BPM: 45.0
+Status: LOW
+Alert: ACTIVE
+------------------------------
+
+------------------------------
+Heartbeat Count: 10
+Instant BPM: 45.3
+Average BPM: 45.0
+Status: LOW
+Alert: ACTIVE
+------------------------------
